@@ -1,3 +1,3 @@
 # Machine-Learning
 
-Build various machine learning classifiers from scratch.
+Built various machine learning classifiers from scratch.
